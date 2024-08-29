@@ -26,3 +26,5 @@ git init
 
 ## Создание ссылки 
 [Яндекс](https://www.yandex.ru "Я Yandex!")
+
+## Работа с VS Code
